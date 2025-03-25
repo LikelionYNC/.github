@@ -7,7 +7,7 @@
 [정원](https://github.com/kjone8371)
 [정은](https://github.com/)
 [준환](https://github.com/)
-[준혁](https://github.com/)
+[준혁](https://github.com/jun-hY)
 [가영](https://github.com/kaouo)
 [수현](https://github.com/Kim-Suhyun)
 [동현](https://github.com/Dev-KimDonghyun)
@@ -28,8 +28,8 @@
 | **직책** | **대표** | **운영진** | **운영진** | **운영진** | **운영진** | 아기사자 |
 | **분류** | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=react) | ![Tech Stacks](https://skillicons.dev/icons?i=react) | ![Tech Stacks](https://skillicons.dev/icons?i=react) |
 ||||||||
-| **이름** | **[정원](https://github.com/kjone8371)** | **[정은](https://github.com/)** | **[준환](https://github.com/)** | **[준혁](https://github.com/)** | **[동현](https://github.com/Dev-KimDonghyun)** | **[수현](https://github.com/Kim-Suhyun)** |
-| **프로필** | ![정원](https://github.com/kjone8371.png) | ![정은](https://github.com/.png) | ![준환](https://github.com/.png) | ![준혁](https://github.com/.png) | ![동현](https://github.com/Dev-KimDonghyun.png) | ![수현](https://github.com/Kim-Suhyun.png) |
+| **이름** | **[정원](https://github.com/kjone8371)** | **[정은](https://github.com/)** | **[준환](https://github.com/)** | **[준혁](https://github.com/jun-hY)** | **[동현](https://github.com/Dev-KimDonghyun)** | **[수현](https://github.com/Kim-Suhyun)** |
+| **프로필** | ![정원](https://github.com/kjone8371.png) | ![정은](https://github.com/.png) | ![준환](https://github.com/.png) | ![준혁](https://github.com/jun-hY.png) | ![동현](https://github.com/Dev-KimDonghyun.png) | ![수현](https://github.com/Kim-Suhyun.png) |
 | **직책** | 아기사자 | 아기사자 | 아기사자 | 아기사자 | 아기사자 | 아기사자 |
 | **분류** | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=spring) | ![Tech Stacks](https://skillicons.dev/icons?i=react) | ![Tech Stacks](https://skillicons.dev/icons?i=figma,blender) |
 
